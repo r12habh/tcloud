@@ -65,6 +65,7 @@
     "socket.io-client": "^2.1.1",
     "torrent-search-api": "^1.1.7",
     "webtorrent": "^0.102.4",
+    "x-ray-crawler": "^2.0.0",
     "xml2js": "^0.4.19"
   }
 }
