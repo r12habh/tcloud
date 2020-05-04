@@ -45,6 +45,8 @@ export default class MaClass extends React.Component {
         </p>
         <p style={style.author}>Powered by<span> </span>
           <a target="_blank" href="https://github.com/Lunik">@Lunik</a>
+          <span>  </span>
+          <a target="_blank" href="https://github.com/r12habh">@r12habh</a>
         </p>
       </div>
     )
